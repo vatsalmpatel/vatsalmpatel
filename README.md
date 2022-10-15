@@ -16,8 +16,6 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
 
 <img align="left" alt="Numpy" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
 
-<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/apache/spark-website/images/spark-logo.png" />
-
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
 
 <img align="left" alt="Jupyter" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
@@ -52,6 +50,8 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 <img align="left" alt="Databricks" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/SQLPlayer/icons-and-symbols/popular/databricks.svg" />
+
+<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/apache/spark-website/images/spark-logo.png" />
 <br />
 <br />
 <br />
