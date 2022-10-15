@@ -58,12 +58,7 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
 <details>
     <summary><h3>👨‍💻 Vatsal's Coding Journey</h3></summary>
         I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. I started coding when I was in 8th grade, teaching myself C, and then worked my way up the language ladder with and upgrade to C++, then Java and eventually Python. I was introduced to the world of AI and Machine Learning when I was doing my under grad and since then there was nothing that could stop me, a desire to learn, a desire to be the best. A desire that landed me a Machine Learning Operations (MLOps) Co-op at Retail Business Services (a company of Ahold Delhaize USA). 
-
-
         As a Machine Learning and MLOps Engineer, I like to work on projects that include Deep Learning, Computer Vision, NLP, Recommendation Engines, Data Engineering. I have experience in building end-to-end machine learning systems using a host of ML Models, containerizing them using Docker and deploying it on a Kubernetes Cluster using platforms such as Azure and Seldon. I also have a soft spot for automation building automation pipelines using Azure DevOps pipelines.
-
-
         I have a burning desire to keep on learning new stuff and I have no desire to stop, not right now, NEVER. 
 
 [linkedin]: https://www.linkedin.com/in/vatsal-patel-84220745/
-[youtube]: https://youtube.com/fknight
