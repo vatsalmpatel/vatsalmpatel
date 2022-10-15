@@ -64,6 +64,6 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
 <br />
 
 <a href="https://www.linkedin.com/in/vatsal-patel-84220745/">
-         <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linked/linkedin-original.svg" /> 
+         <img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
 </a>
 
