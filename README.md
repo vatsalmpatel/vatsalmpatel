@@ -1,4 +1,4 @@
-# 🏄💻 Vatsal Patel -> Under Progress
+# 🏄💻 Vatsal Patel 🚧
 
 I'm a Machine Learning Engineer who knows how to build and train a machine learning model and deploy those models at scale. I have experience building computer vision models, recommendation systems using Graph Neural Networks as well as recommendation systems using transformer models, NLP Models, Deep Learning Models, Regression Models and much more.
 
