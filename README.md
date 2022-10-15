@@ -6,7 +6,7 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
-<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/SQLPlayer/icons-and-symbols/popular/databricks-vector-logo.svg" />
+<img align="left" alt="Databricks" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/SQLPlayer/icons-and-symbols/popular/databricks.svg" />
 
 <img align="left" alt="Tensorflow" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 
