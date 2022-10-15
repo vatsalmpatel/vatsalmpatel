@@ -51,7 +51,7 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
 
 <img align="left" alt="Databricks" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/SQLPlayer/icons-and-symbols/popular/databricks.svg" />
 
-<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/apache/spark-website/images/spark-logo.png" />
+<img align="left" alt="Spark" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/apache/spark-website/images/spark-logo.png" />
 <br />
 <br />
 <br />
