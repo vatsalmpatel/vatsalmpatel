@@ -52,7 +52,6 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
 <img align="left" alt="Databricks" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/SQLPlayer/icons-and-symbols/popular/databricks.svg" />
 <br />
 
-#
 
 <details>
     <summary><h3>👨‍💻 Vatsal's Coding Journey</h3></summary>
