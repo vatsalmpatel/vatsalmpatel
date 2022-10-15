@@ -1,4 +1,4 @@
-# 🎃💻 Vatsal Patel 🚧
+# 🎃💻 Vatsal Patel
 
 I'm a Machine Learning Engineer who knows how to build and train a machine learning model and deploy those models at scale. I have experience building computer vision models, recommendation systems using Graph Neural Networks as well as recommendation systems using transformer models, NLP Models, Deep Learning Models, Regression Models and much more.
 
@@ -61,4 +61,9 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
     <p> As a Machine Learning and MLOps Engineer, I like to work on projects that include Deep Learning, Computer Vision, NLP, Recommendation Engines, Data Engineering. I have experience in building end-to-end machine learning systems using a host of ML Models, containerizing them using Docker and deploying it on a Kubernetes Cluster using platforms such as Azure and Seldon. I also have a soft spot for automation building automation pipelines using Azure DevOps pipelines. </p>
     <p> I have a burning desire to keep on learning new stuff and I have no desire to stop, not right now, NEVER. </p>
 </details>
-[linkedin]: https://www.linkedin.com/in/vatsal-patel-84220745/
+<br />
+
+<a href="https://www.linkedin.com/in/vatsal-patel-84220745/">
+         <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linked/linkedin-original.svg" /> 
+</a>
+
