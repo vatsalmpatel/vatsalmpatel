@@ -69,3 +69,7 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
          <img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
 </a>
 
+<a href="https://twitter.com/vatsalmpatel">
+         <img align="left" alt="twitter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /> 
+</a>
+
