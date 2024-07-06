@@ -56,6 +56,7 @@ I'm a Data Scientist with vast experience in building data pipelines and someone
 <br />
 <br />
 
+#
 <details>
     <summary><h3>👨‍💻 Vatsal's Coding Journey</h3></summary>
     <p>I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. I started coding when I was in 8th grade, teaching myself C, and then worked my way up the language ladder with and upgrade to C++, then Java and eventually Python. I was introduced to the world of AI and Machine Learning when I was doing my under grad and since then there was nothing that could stop me, a desire to learn, a desire to be the best. A desire that landed me a Data Scientist Co-op at Ahold Delhaize USA. </p>
