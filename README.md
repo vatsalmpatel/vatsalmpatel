@@ -1,6 +1,6 @@
 # 🎃💻 Vatsal Patel
 
-I'm a Machine Learning Engineer who knows how to build and train a machine learning model and deploy those models at scale. I have experience building computer vision models, recommendation systems using Graph Neural Networks as well as recommendation systems using transformer models, NLP Models, Deep Learning Models, Regression Models and much more. I can build scalable models in Tensorflow as well as PyTorch.
+I'm a Data Scientist with vast experience in building data pipelines and someone who knows how to build and train a machine learning model and deploy those models at scale. I have experience building computer vision models, recommendation systems using Graph Neural Networks as well as recommendation systems using transformer models, NLP Models, Deep Learning Models, Regression Models and much more. I can build scalable models in Tensorflow as well as PyTorch.
 
 ### 🧰 Languages and Tools
 
@@ -59,13 +59,13 @@ I'm a Machine Learning Engineer who knows how to build and train a machine learn
 #
 <details>
     <summary><h3>👨‍💻 Vatsal's Coding Journey</h3></summary>
-    <p>I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. I started coding when I was in 8th grade, teaching myself C, and then worked my way up the language ladder with and upgrade to C++, then Java and eventually Python. I was introduced to the world of AI and Machine Learning when I was doing my under grad and since then there was nothing that could stop me, a desire to learn, a desire to be the best. A desire that landed me a Machine Learning Operations (MLOps) Co-op at Retail Business Services (a company of Ahold Delhaize USA). </p>
-    <p> As a Machine Learning and MLOps Engineer, I like to work on projects that include Deep Learning, Computer Vision, NLP, Recommendation Engines, Data Engineering. I have experience in building end-to-end machine learning systems using a host of ML Models, containerizing them using Docker and deploying it on a Kubernetes Cluster using platforms such as Azure and Seldon. I also have a soft spot for automation building automation pipelines using Azure DevOps pipelines. </p>
+    <p>I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. I started coding when I was in 8th grade, teaching myself C, and then worked my way up the language ladder with and upgrade to C++, then Java and eventually Python. I was introduced to the world of AI and Machine Learning when I was doing my under grad and since then there was nothing that could stop me, a desire to learn, a desire to be the best. A desire that landed me a Data Scientist Co-op at Ahold Delhaize USA. </p>
+    <p> As a Machine Learning and a Data Scientist, I like to work on projects that include Deep Learning, Computer Vision, NLP, Recommendation Engines, Data Engineering. I have experience in building end-to-end machine learning systems using a host of ML Models, containerizing them using Docker and deploying it on a Kubernetes Cluster using platforms such as Azure and Seldon. I also have a soft spot for automation building automation pipelines </p>
     <p> I have a burning desire to keep on learning new stuff and I have no desire to stop, not right now, NEVER. </p>
 </details>
 <br />
 
-<a href="https://www.linkedin.com/in/vatsal-patel-84220745/">
+<a href="https://www.linkedin.com/in/vatsalmpatel/">
          <img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
 </a>
 
