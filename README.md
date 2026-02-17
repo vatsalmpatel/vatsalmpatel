@@ -4,13 +4,13 @@ I am Vatsal, and I went to Northeastern to know more about ~~huskies~~ data and 
 
 My experience encompases building end-to-end Machine Learning Systems, including scalable data pipelines and deploying machine learning models into production.
 
-🔭 Currently, I am a Data Engineer at Bank OZK by day and an avid cricket player by night.
+🔭 Currently, I am looking for Data Engineering/AI Engineering Jobs.
 
 📚 In the data world, my current explorations are scalable data pipelines, user-centered AI, LLM's and a bit of system design.
 
 **Here is my profession experience in a nutshell:**
 
-🏦 **Bank OZK (2023-2026)**: I work as a Data Engineer in the second-line enterprise risk management, building high volume and scalable data pipelines supporting the Model Risk team in building in-house challenger models, supporting bank's $30 billion dollar loan portfolio.
+🏦 **Bank OZK (2023-2026)**: I work as a Data Engineer and Manager of Data Engineering in the second-line enterprise risk management, building high volume and scalable data pipelines supporting the Model Risk team in building in-house challenger models, supporting bank's $30 billion dollar loan portfolio.
 
 🍓 **Ahold Delhaize (2022)**: I worked as a Data Scientist, Engineered high-impact business solutions for the E-Commerce and Digital Team, developing scalable machine learning models, utilized 25TB of historical sales and search data, applying GenAI (Large Language Models) yielding powerful product and search recommendations.
 
